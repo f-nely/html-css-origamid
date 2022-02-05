@@ -1,0 +1,24 @@
+/* link-caminho.html */
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #008088;
+  border: 1px solid #008088;
+  padding: 7px 5px;
+}
+
+.link:hover {
+  color: #008088;
+  background-color: #fff;
+  border: 1px solid #008088;
+}
+
+#titulo {
+  color: #008088;
+}
+
+/* index.html */
+h1 {
+  color: #0088;
+}
