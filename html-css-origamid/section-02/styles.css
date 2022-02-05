@@ -18,7 +18,16 @@
   color: #008088;
 }
 
-/* index.html */
-h1 {
+/* seletores-basicoss */
+h1,
+a {
+  color: #ffd700;
+}
+
+p a {
   color: #0088;
+}
+
+#intro {
+  color: rgb(140, 200, 255);
 }
