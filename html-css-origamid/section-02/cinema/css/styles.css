@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.inicio {
+  color: #000;
+}
+
+h2 a {
+  color: #1aa33f;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.today {
+  color: #eb4034;
+}
+
+.tomorrow {
+  color: #3483eb;
+}
+
+p {
+  font-size: 20px;
+}
