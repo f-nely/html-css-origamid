@@ -18,7 +18,7 @@
   color: #008088;
 }
 
-/* seletores-basicoss */
+/* seletores-basicos */
 h1,
 a {
   color: #ffd700;
@@ -30,4 +30,10 @@ p a {
 
 #intro {
   color: rgb(140, 200, 255);
+}
+
+/* background-e-cores */
+#bg {
+  background-color: #84E;
+  color: #FFEEDD;
 }
