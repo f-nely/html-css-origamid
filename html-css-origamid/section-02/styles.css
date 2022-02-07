@@ -82,3 +82,16 @@ span, a, strong {
 div, h2, p {
   border: 1px solid rgba(255, 0, 0, 0.5);
 }
+
+/* imagens.html */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.format-img {
+  width: 300px;
+  border: none;
+}
+
+/* otimização de imagem - squoosh.app */
