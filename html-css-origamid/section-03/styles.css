@@ -1,0 +1,17 @@
+/* posicionamento.html */
+.position {
+  display: inline-block;
+  background-color: #ddd;
+  padding: 7px 5px;
+  border: 1px solid #000;
+  border-top: 2px solid #008080;
+  margin: 10px 5px;
+}
+
+/* body {
+  writing-mode: vertical-lr;
+} */
+
+h1 {
+  margin-block-start: 30px;
+}
